@@ -1,3 +1,10 @@
+# Prerequisites
+Make sure you filled in your Firebase config info into firebase.js , tmdb API key into app/api/Requests.js and stripe test key into app/components/profile/PlanScreen.js 
+Requires Firebase Backend on Blaze bracket and Stripe integration.
+
+# Production Link
+[https://netflix-clone-99622.firebaseapp.com/](https://netflix-clone-99622.firebaseapp.com/)
+
 # Getting Started with Create React App and Redux
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
@@ -28,6 +35,8 @@ The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+Initiate deployments thereafter through command firebase deploy (make sure you have firebase installed on development environment through CLI)
 
 ### `npm run eject`
 
