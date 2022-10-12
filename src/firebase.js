@@ -3,12 +3,16 @@ import "firebase/compat/auth";
 import "firebase/compat/firestore";
 
 const firebaseConfig = {
+<<<<<<< HEAD
   apiKey: "",
   authDomain: "",
   projectId: "",
   storageBucket: "",
   messagingSenderId: "",
   appId: "",
+=======
+
+>>>>>>> 4de34f612cfc4ce70042a81911867f775b13339b
 };
 
 const firebaseApp = firebase.initializeApp(firebaseConfig);
