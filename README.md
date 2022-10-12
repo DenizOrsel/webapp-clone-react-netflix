@@ -1,5 +1,5 @@
 # Prerequisites
-Make sure you filled in your Firebase config info into firebase.js , tmdb API key into app/api/Requests.js and stripe test key into app/components/profile/PlanScreen.js 
+Make sure you filled in your Firebase config info into src/firebase.js , tmdb API key into src/app/api/Requests.js and stripe test key into src/app/components/profile/PlanScreen.js 
 Requires Firebase Backend on Blaze bracket and Stripe integration.
 
 # Production Link
