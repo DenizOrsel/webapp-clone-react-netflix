@@ -1,6 +1,6 @@
 # Prerequisites
 Make sure you filled in your Firebase config info into src/firebase.js , tmdb API key into src/app/api/Requests.js and stripe test key into src/app/components/profile/PlanScreen.js 
-Requires Firebase Backend on Blaze bracket and Stripe integration.
+Requires Firebase Backend on minimum Blaze bracket(CreditCard required) and Stripe integration.
 
 # Production Link
 [https://netflix-clone-99622.firebaseapp.com/](https://netflix-clone-99622.firebaseapp.com/)
